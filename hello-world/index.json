@@ -4,10 +4,17 @@
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run Command",
+    "steps": [
+      {
+      "title": "Step 1 - Check Services' Status",
       "text": "step1.md"
-    }],
+    },
+      {
+        "title": "Step 2 - Enable Services",
+        "text": "step2.md"
+      }
+             ],
+    
     "intro": {
       "text": "intro.md",
       "credits": ""
